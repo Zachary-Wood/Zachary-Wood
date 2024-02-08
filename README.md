@@ -3,6 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on full stack apps<br>🌱 I’m currently learning SQL and react<br>💬 Ask me about anything related to javascript<br>⚡ I am 19 years old and i have been working with computers since i was 5
 
+[![](https://visitcount.itsvg.in/api?id=Zachary-Wood&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zach-wood-82a80b28b) 
@@ -15,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zachary-Wood&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zachary-Wood&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
