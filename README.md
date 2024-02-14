@@ -1,7 +1,7 @@
 ### Hi there My Name is Zach Wood 👋
 
 # 💫 About Me:
-🔭 I’m currently working on full stack apps<br>🌱 I’m currently learning SQL and react<br>💬 Ask me about anything related to javascript<br>⚡ I am 19 years old and i have been working with computers since i was 5
+🔭 I’m currently working on full stack apps<br>🌱 I’m currently learning sequelize and react<br>💬 Ask me about anything related to javascript<br>⚡ I am 19 years old and i have been working with computers since i was 5
 
 [![](https://visitcount.itsvg.in/api?id=Zachary-Wood&icon=0&color=1)](https://visitcount.itsvg.in)
 
