@@ -1,4 +1,4 @@
-### Hi there My Name is Zach Wood 👋
+# Hi there My Name is Zach Wood 👋
 
 # 💫 About Me:
 🔭 I’m currently working on full stack apps<br>🌱 I’m currently am in search for a junior full stack developer role<br>💬 Ask me about anything related to javascript<br>⚡ I am 20 years old and i have been working with computers since i was 5
